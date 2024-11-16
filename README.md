@@ -12,9 +12,7 @@
 ### 🚀 About Me
 - 🌍 Based in **Central London**.
 - 💼 Currently working as a **Data Engineer** at **P&G**, leveraging **Azure** to manage and transform big data.  
-- 📊 Passionate about **big data**, **quantum computing**, and building scalable solutions.  
-- 🎯 On a journey to **master LeetCode** and explore **software engineering** at top-tier companies.  
-- ✍️ I document my grind and share my journey on [My Telegram Channel](#).
+- 📊 Passionate about **big data**, **quantum computing**, and building scalable solutions. 
 
 ---
 
