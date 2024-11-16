@@ -36,8 +36,7 @@
 
 ---
 
-> ✨ "The grind doesn't stop until the goals are crushed. Keep pushing!"  
-> — JN
+>  "The grind doesn't stop until the goals are crushed."  
 
 ---
 
