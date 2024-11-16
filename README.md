@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/your-profile-banner.jpg" alt="Banner" />
+  <img src="https://www.canva.com/design/DAGWrGfCarw/Hf7KxTleRWcH3q5x-kl2ow/view" alt="Banner" />
 </p>
 
 ---
