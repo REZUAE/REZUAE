@@ -7,7 +7,6 @@
   <img src="https://i.ibb.co/92Q8bdB/Javokhi.png" alt="Banner" />
 </p>
 
----
 - 🌍 Based in **Warsaw**.
 - 💼 Currently working as a **Data Engineer** at **P&G**, leveraging **Azure** to manage and transform big data.  
 - 📊 Passionate about **big data**, **quantum computing**, and building scalable solutions. 
