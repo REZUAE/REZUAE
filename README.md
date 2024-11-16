@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Javokhir Norbekov</h1>
-<h3 align="center">👨‍💻 Data Engineer | 💡 Tech Enthusiast | 🚀 Lifelong Learner</h3>
+<h3 align="center">👨‍💻 Data Engineer | 💡 Software Engineer | 🚀 Lifelong Learner</h3>
 
 ---
 
@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 🌍 Based in **Central London**.
+- 🌍 Based in **Warsaw**.
 - 💼 Currently working as a **Data Engineer** at **P&G**, leveraging **Azure** to manage and transform big data.  
 - 📊 Passionate about **big data**, **quantum computing**, and building scalable solutions. 
 
