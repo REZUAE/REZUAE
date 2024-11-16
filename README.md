@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/MpF2cJK/Javokhi.png" alt="Banner" />
+  <img src="https://i.ibb.co/92Q8bdB/Javokhi.png" alt="Banner" />
 </p>
 
 ---
