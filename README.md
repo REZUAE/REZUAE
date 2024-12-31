@@ -20,14 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REZUAE&show_icons=true&theme=radical&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=REZUAE&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/javokhir-norbekov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
