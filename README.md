@@ -1,4 +1,4 @@
-Hi, I'm Javokhir Norbekov.
+Hi, I'm Java
 
 I'm a SWE at P&G
 
