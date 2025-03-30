@@ -1,16 +1,12 @@
-<h1 align="center">Hi, I'm Javokhir Norbekov</h1>
-<h3 align="center">👨‍💻 Software Engineer / Data Engineer  | 🛠️ Python, SQL, TypeScript | 🚀 Building, Learning, Evolving</h3>
+Hi, I'm Javokhir Norbekov.
 
+I'm a Data Engineer at P&G based in Warsaw. I work mostly with Python, SQL, Databricks, and Azure. I'm currently transitioning toward Software Engineering, focusing on backend development, system design, and clean architecture.
 
-### 🛠️ Stack & Tools
-- **Languages:** Python, SQL, TypeScript  
-- **Technologies:** Azure, Databricks, Spark, REST APIs, Git, Docker  
-- **Learning:** FastAPI, PostgreSQL, GitHub Actions, ML Engineering
+**Currently learning:** FastAPI, PostgreSQL, Docker, GitHub Actions  
+**Languages I use:** Python, SQL, TypeScript  
+**Things I enjoy:** Building systems, solving problems, and learning new tech
 
----
+Feel free to reach out or connect:
 
-### 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/javokhir-norbekov/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:javokhir.nor@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
+- 📧 [Email](mailto:rezuonyx@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/javokhir-norbekov/)  
