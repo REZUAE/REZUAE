@@ -3,7 +3,7 @@ Hi, I'm Java
 I'm a SWE at P&G
 
 **Currently learning:** FastAPI, PostgreSQL, Docker, GitHub Actions  
-**Languages I use:** Python, SQL, TypeScript  
+**Languages I use:** Python, SQL, Java  
 **Things I enjoy:** Building systems, solving problems, and learning new tech
 
 Feel free to reach out or connect:
