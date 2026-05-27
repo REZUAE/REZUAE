@@ -1,6 +1,6 @@
-Hi, I'm Java
+Hi, I'm Javokhir Norbekov
 
-I'm a SWE at P&G
+I'm a SWE at Asana
 
 **Currently learning:** FastAPI, PostgreSQL, Docker, GitHub Actions  
 **Languages I use:** Python, SQL, Java  
