@@ -1,4 +1,5 @@
-Hi I'm Java! · SWE @ Asana
+Hi I'm Java! 
+
 SWE @ Asana. Data infrastructure at scale.
 AWS · Databricks · Terraform · Bazel · Spark · Kafka · k8s
 
